@@ -7,7 +7,7 @@
   "license": "MIT",
   "devDependencies": {
     "ava": "^3.15.0",
-    "neon-cli": "=0.8.0"
+    "neon-cli": "^0.8.0"
   },
   "scripts": {
     "test": "ava --timeout=10m",
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/nomic-io/node-merk/issues"
   },
-  "homepage": "https://github.com/nomic-io/node-merk#readme"
+  "homepage": "https://github.com/nomic-io/node-merk#readme",
+  "dependencies": {
+    "neon": "^2.0.0"
+  }
 }
