@@ -6,8 +6,7 @@
   "author": "Matt Bell <mappum@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^3.15.0",
-    "neon-cli": "^0.8.0"
+    "ava": "^3.15.0"
   },
   "scripts": {
     "test": "ava --timeout=10m",
